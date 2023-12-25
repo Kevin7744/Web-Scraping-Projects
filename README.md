@@ -1,3 +1,3 @@
 # Web-Scraping-Projects
 
-Various random projects used to exctract data from different websites.
+Random projects used to exctract data from different websites
