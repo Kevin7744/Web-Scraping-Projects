@@ -2,7 +2,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
 # Set up the YouTube API
-CLIENT_ID = "933685566068-cjmv1miqmkgdersmvqbkt5iujqhadr8v.apps.googleusercontent.com"
+CLIENT_ID = ""
 API_NAME = "youtube"
 API_VERSION = "v3"
 SCOPES = ["https://www.googleapis.com/auth/youtube.readonly"]
